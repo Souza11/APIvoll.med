@@ -1,6 +1,6 @@
-package Med.voll.API.paciente;
+package Med.voll.API.domain.paciente;
 
-import Med.voll.API.endereco.DadosEndereco;
+import Med.voll.API.domain.endereco.DadosEndereco;
 import jakarta.validation.Valid;
 
 public record DadosAtualizacaoPaciente(
